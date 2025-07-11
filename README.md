@@ -2,18 +2,17 @@
 -To develop a predictive model that forecasts the likelihood of societal unrest one month in advance across 50 regions using economic, environmental, and sociopolitical indicators.
 
 **Approach & Methodology:**
-'''-Data Preparation:
+-Data Preparation:
     Dataset: unrest.csv
     Handled missing values and performed basic feature engineering (e.g., extracting month/year).
     Visualized class distribution and correlation with target (unrest_event).
-'''
 
 **Model Development:**
--Target variable: unrest_event (binary classification).
--Features: All other relevant indicators, excluding identifiers and temporal fields.
--SMOTE was applied to balance the class distribution.
--Model: RandomForestClassifier within a pipeline (with StandardScaler).
--Training/Test Split: 70/30 stratified.
+- Target variable: unrest_event (binary classification).
+- Features: All other relevant indicators, excluding identifiers and temporal fields.
+- SMOTE was applied to balance the class distribution.
+- Model: RandomForestClassifier within a pipeline (with StandardScaler).
+- Training/Test Split: 70/30 stratified.
 
 **Model Evaluation:**
 

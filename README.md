@@ -35,8 +35,7 @@
 - Top features were clearly identified through importance analysis.
 - Calibration improved the reliability of probability predictions.
 
-1. Distibution of Unrest Events
-!(https://github.com/SanjibSaha27/Forecast_Probability_Social_Unrest/blob/main/1%20Distibution%20of%20Unrest%20Events.png)
+![1. Distibution of Unrest Events](https://github.com/SanjibSaha27/Forecast_Probability_Social_Unrest/blob/main/1%20Distibution%20of%20Unrest%20Events.png)
 
 
 

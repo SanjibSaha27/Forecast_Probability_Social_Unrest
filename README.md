@@ -8,7 +8,6 @@
     Visualized class distribution and correlation with target (unrest_event).
 
 **Model Development:**
-
 -Target variable: unrest_event (binary classification).
 -Features: All other relevant indicators, excluding identifiers and temporal fields.
 -SMOTE was applied to balance the class distribution.

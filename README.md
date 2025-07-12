@@ -58,3 +58,11 @@
 - Incorporate real-time or updated data feeds for live prediction integration.
 - Consider testing additional models (e.g., Gradient Boosting, XGBoost) for comparison.
 - Explore temporal models (e.g., LSTM) if time sequence patterns are critical.
+
+**Power BI Interactive Dashboard**
+![Power BI Interactive Dashboard](https://app.powerbi.com/groups/me/reports/0e063933-fef6-4daa-a435-0d58dcca20b6/20d9865034acea96453a?experience=power-bi)
+
+
+
+
+P

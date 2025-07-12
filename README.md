@@ -42,10 +42,14 @@
 ![2 Correlation with Unrest Event](https://github.com/SanjibSaha27/Forecast_Probability_Social_Unrest/blob/main/2%20Correlation%20with%20Unrest%20Event.png)
 
 **3 Feature Importance**
-![2 Correlation with Unrest Event](https://github.com/SanjibSaha27/Forecast_Probability_Social_Unrest/blob/main/3%20Feature%20Importance.png)
+![3 Feature Importance](https://github.com/SanjibSaha27/Forecast_Probability_Social_Unrest/blob/main/3%20Feature%20Importance.png)
 
 **4 Calibration Curve**
-![2 Correlation with Unrest Event](https://github.com/SanjibSaha27/Forecast_Probability_Social_Unrest/blob/main/4%20Calibration%20Curve.png)
+![4 Calibration Curve](https://github.com/SanjibSaha27/Forecast_Probability_Social_Unrest/blob/main/4%20Calibration%20Curve.png)
+
+**5 Calibration Curve Comparision**
+![5 Calibration Curve Comparision](https://github.com/SanjibSaha27/Forecast_Probability_Social_Unrest/blob/main/5%20Calibration%20Curve%20Comparision.png)
+
 
 **Recommendations:**
 

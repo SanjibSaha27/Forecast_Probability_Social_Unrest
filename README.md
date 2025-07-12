@@ -41,6 +41,10 @@
 **2 Correlation with Unrest Event**
 ![2 Correlation with Unrest Event](https://github.com/SanjibSaha27/Forecast_Probability_Social_Unrest/blob/main/2%20Correlation%20with%20Unrest%20Event.png)
 
+**3 Feature Importance**
+![2 Correlation with Unrest Event](https://github.com/SanjibSaha27/Forecast_Probability_Social_Unrest/blob/main/3%20Feature%20Importance.png)
+
+
 **Recommendations:**
 
 - Use the calibrated model for more trustworthy risk probabilities in decision-making.

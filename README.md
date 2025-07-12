@@ -1,3 +1,8 @@
+**Power BI Interactive Dashboard**
+
+https://app.powerbi.com/groups/me/reports/0e063933-fef6-4daa-a435-0d58dcca20b6/20d9865034acea96453a?experience=power-bi
+
+
 **Objective:**
 - To develop a predictive model that forecasts the likelihood of societal unrest one month in advance across 50 regions using economic, environmental, and sociopolitical indicators.
 

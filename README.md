@@ -39,8 +39,7 @@
 ![1. Distibution of Unrest Events](https://github.com/SanjibSaha27/Forecast_Probability_Social_Unrest/blob/main/1%20Distibution%20of%20Unrest%20Events.png)
 
 **2 Correlation with Unrest Event**
-![2 Correlation with Unrest Event]
-(https://github.com/SanjibSaha27/Forecast_Probability_Social_Unrest/blob/main/2%20Correlation%20with%20Unrest%20Event.png)
+![2 Correlation with Unrest Event](https://github.com/SanjibSaha27/Forecast_Probability_Social_Unrest/blob/main/2%20Correlation%20with%20Unrest%20Event.png)
 
 **Recommendations:**
 

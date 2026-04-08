@@ -69,3 +69,8 @@ https://app.powerbi.com/groups/me/reports/0e063933-fef6-4daa-a435-0d58dcca20b6/2
 https://app.powerbi.com/groups/me/reports/0e063933-fef6-4daa-a435-0d58dcca20b6/20d9865034acea96453a?experience=power-bi
 
 
+## ⚠️ Usage Notice
+This project is for educational and portfolio purposes only.  
+Please do not copy or reuse this code without proper attribution.
+
+
